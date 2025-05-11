@@ -1,19 +1,24 @@
 # My Web3 Developer Roadmap
 
-## Languages
-- [x] HTML/CSS
+Tracking what I’ve learned and what I’m working on.
+
+## Core Skills
+- [x] HTML & CSS
 - [x] JavaScript
 - [ ] Solidity
 - [ ] SQL
-
-## Frameworks & Tools
 - [ ] Node.js
+
+## Tools To Master
 - [ ] Next.js
-- [ ] AWS
+- [ ] Express.js
+- [ ] GitHub Actions
+- [ ] AWS Basics
 
 ## Blockchain Concepts
 - [ ] Smart Contracts
-- [ ] dApp Architecture
-- [ ] Web3 Integrations
+- [ ] Gas Optimization
+- [ ] Token Standards (ERC-20, ERC-721)
 
-*Work in progress — tracking my journey daily.*
+## Notes
+- I document progress weekly on Twitter.
