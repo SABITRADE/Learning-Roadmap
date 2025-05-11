@@ -6,19 +6,19 @@ Tracking what I’ve learned and what I’m working on.
 - [x] HTML & CSS
 - [x] JavaScript
 - [ ] Solidity
-- [ ] SQL
-- [ ] Node.js
+- [x] SQL
+- [x] Node.js
 
 ## Tools To Master
-- [ ] Next.js
+- [x] Next.js
 - [ ] Express.js
 - [ ] GitHub Actions
 - [ ] AWS Basics
 
 ## Blockchain Concepts
-- [ ] Smart Contracts
+- [x] Smart Contracts
 - [ ] Gas Optimization
 - [ ] Token Standards (ERC-20, ERC-721)
 
 ## Notes
-- I document progress weekly on Twitter.
+- I document progress weekly on my Jotter.
